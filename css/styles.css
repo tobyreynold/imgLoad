@@ -1,0 +1,21 @@
+.btn {
+    display: block;
+    background: #efefef;
+    border-radius: 3px;
+    text-align: center;
+    padding: 10px;
+}
+#view {
+    display: block;
+}
+    
+.face {
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    border: 2px solid #FFF;
+}
+.con {
+    margin-top: .2rem;
+    position: relative;
+}
